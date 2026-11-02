@@ -4,9 +4,11 @@ A projector project based off people using their phones with a magnifying glass 
 
 
 The concept I am using:
+
 <img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/a57dcf18-c289-4809-a8b7-90a9947f9958" />
 
 Items I am using:
+
 <img width="379" height="268" alt="Screenshot 2026-11-02 175624" src="https://github.com/user-attachments/assets/cf6b2df4-df64-4b1c-b19f-d30653a054a8" />
 <img width="365" height="235" alt="Screenshot 2026-11-02 175637" src="https://github.com/user-attachments/assets/f3c3cc00-7b37-4bc1-af54-3fc88d259d97" />
 <img width="368" height="369" alt="Screenshot 2026-11-02 175613" src="https://github.com/user-attachments/assets/a95a99d2-06ef-4d40-983d-2cf51ad74fae" />
